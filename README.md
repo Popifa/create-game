@@ -96,5 +96,5 @@ We love to see what developers like you create with Phaser! It really motivates 
 Created by [Phaser Studio Inc](mailto:support@phaser.io). Powered by coffee, anime, pixels and love.
 
 The Phaser logo and characters are &copy; 2011 - 2024 Phaser Studio Inc.
-
+it can bring joy to your egaming pleasure adios
 All rights reserved.
